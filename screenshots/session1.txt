@@ -1,0 +1,61 @@
+Loaded 1 surveys from surveys.dat
+
+=== Surveys App ===
+1) Create survey
+2) List surveys
+3) Answer survey
+4) Show survey results
+5) Save surveys
+0) Exit
+Choose: Survey title: Enter questions (blank line to finish):
+Q1: Q2: Survey created.
+
+=== Surveys App ===
+1) Create survey
+2) List surveys
+3) Answer survey
+4) Show survey results
+5) Save surveys
+0) Exit
+Choose: Surveys:
+1) Colors (1 q)
+2) Demo Survey (1 q)
+Enter survey id: Answer the questions below (just press Enter to submit an empty answer).
+What is your favorite color?
+Answer: Thanks — response recorded.
+
+=== Surveys App ===
+1) Create survey
+2) List surveys
+3) Answer survey
+4) Show survey results
+5) Save surveys
+0) Exit
+Choose: Surveys:
+1) Colors (1 q)
+2) Demo Survey (1 q)
+Enter survey id: 
+Results for: Colors
+
+Q: What is your favorite color?
+  1) Blue
+  2) Pizza
+
+=== Surveys App ===
+1) Create survey
+2) List surveys
+3) Answer survey
+4) Show survey results
+5) Save surveys
+0) Exit
+Choose: Saved 2 surveys to surveys.dat
+
+=== Surveys App ===
+1) Create survey
+2) List surveys
+3) Answer survey
+4) Show survey results
+5) Save surveys
+0) Exit
+Choose: Saved 2 surveys to surveys.dat
+Goodbye.

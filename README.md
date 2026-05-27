@@ -27,3 +27,16 @@ javac Project.java TestSurvey.java
 java TestSurvey
 ```
 
+Prompts and screenshots
+-----------------------
+
+The prompts used to generate and refine this project are in `PROMPTS.md`.
+
+A recorded sample interactive session (menu-driven run that creates a demo survey, answers it, shows results, and saves) is captured in `screenshots/session1.txt`.
+
+To view the sample session output:
+
+```bash
+cat screenshots/session1.txt
+```
+
